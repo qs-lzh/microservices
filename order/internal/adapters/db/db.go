@@ -14,7 +14,6 @@ type Order struct {
 	OrderItems []OrderItem
 }
 
-// NOTE: but why to write this???it already esisted in application/core/domain/order.go
 type OrderItem struct {
 	gorm.Model
 	ProductCode string
