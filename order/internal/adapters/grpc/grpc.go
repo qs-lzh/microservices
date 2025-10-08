@@ -4,7 +4,6 @@ import (
 	"context"
 
 	"github.com/qs-lzh/microservices-proto/golang/order"
-
 	"github.com/qs-lzh/microservices/order/internal/application/core/domain"
 )
 
